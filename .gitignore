@@ -26,5 +26,5 @@ dist-ssr
 # Claude temp files
 tmpclaude-*
 
-# Large data files (host separately or use Git LFS)
+# Large data files
 public/data/addresses_cleaned.csv
