@@ -1,0 +1,143 @@
+.map-container {
+  width: 100%;
+  height: 100vh;
+}
+
+.hydrant-marker {
+  background: transparent;
+}
+
+.station-marker {
+  background: transparent;
+}
+
+.station-marker-inner {
+  width: 36px;
+  height: 36px;
+  background: linear-gradient(145deg, var(--station-gold, #ffd93d), #ffaa00);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: 'DM Mono', monospace;
+  color: #1a1a1a;
+  box-shadow: 0 3px 10px rgba(255, 217, 61, 0.4);
+  border: 2px solid white;
+  transition: transform 0.2s ease;
+}
+
+.station-marker:hover .station-marker-inner {
+  transform: scale(1.1);
+}
+
+.address-marker {
+  background: transparent;
+}
+
+/* Marker clusters */
+.marker-cluster {
+  background-clip: padding-box;
+  border-radius: 50%;
+}
+
+.marker-cluster div {
+  width: 30px;
+  height: 30px;
+  margin-left: 5px;
+  margin-top: 5px;
+  text-align: center;
+  border-radius: 50%;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.marker-cluster-small {
+  background-color: rgba(255, 71, 87, 0.5);
+}
+.marker-cluster-small div {
+  background-color: rgba(255, 71, 87, 0.85);
+}
+
+.marker-cluster-medium {
+  background-color: rgba(255, 107, 53, 0.5);
+}
+.marker-cluster-medium div {
+  background-color: rgba(255, 107, 53, 0.85);
+}
+
+.marker-cluster-large {
+  background-color: rgba(255, 165, 2, 0.5);
+}
+.marker-cluster-large div {
+  background-color: rgba(255, 165, 2, 0.85);
+}
+
+/* Address cluster styles */
+.marker-cluster-address.marker-cluster-small {
+  background-color: rgba(34, 197, 94, 0.5);
+}
+.marker-cluster-address.marker-cluster-small div {
+  background-color: rgba(34, 197, 94, 0.85);
+}
+.marker-cluster-address.marker-cluster-medium {
+  background-color: rgba(34, 180, 94, 0.5);
+}
+.marker-cluster-address.marker-cluster-medium div {
+  background-color: rgba(34, 180, 94, 0.85);
+}
+.marker-cluster-address.marker-cluster-large {
+  background-color: rgba(34, 160, 94, 0.5);
+}
+.marker-cluster-address.marker-cluster-large div {
+  background-color: rgba(34, 160, 94, 0.85);
+}
+
+/* Zipcode pane styling */
+.leaflet-zipcodePane-pane path {
+  cursor: pointer;
+}
+
+/* Allow clicks to pass through empty areas of marker cluster panes to reach zipcodes below */
+.leaflet-marker-pane,
+.leaflet-overlay-pane {
+  pointer-events: none;
+}
+
+/* But re-enable pointer events on actual markers and clusters */
+.leaflet-marker-icon,
+.leaflet-interactive,
+.marker-cluster {
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+.zipcode-label {
+  background: rgba(0, 0, 0, 0.7);
+  border: none;
+  border-radius: 4px;
+  color: white;
+  font-weight: 600;
+  padding: 4px 8px;
+}
+
+.boundary-label {
+  background: rgba(6, 182, 212, 0.9);
+  border: none;
+  border-radius: 6px;
+  color: white;
+  font-weight: 600;
+  padding: 6px 12px;
+  box-shadow: 0 4px 15px rgba(6, 182, 212, 0.4);
+}
+
+/* Boundary glow animation */
+.boundary-glow {
+  filter: drop-shadow(0 0 8px rgba(6, 182, 212, 0.6));
+}

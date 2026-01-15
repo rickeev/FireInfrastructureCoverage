@@ -1,0 +1,1715 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.50132133912008,
+          38.573436484484255
+        ]
+      },
+      "properties": {
+        "station": 1,
+        "agency": "SAC",
+        "address": "624 Q ST",
+        "city": "SACRAMENTO",
+        "battalion": "1",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.48902428482279,
+          38.58073789443968
+        ]
+      },
+      "properties": {
+        "station": 2,
+        "agency": "SAC",
+        "address": "1229 I ST",
+        "city": "SACRAMENTO",
+        "battalion": "1",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.6261538480725,
+          38.685028225482
+        ]
+      },
+      "properties": {
+        "station": 3,
+        "agency": "SAC",
+        "address": "7208 W ELKHORN BLVD",
+        "city": "SACRAMENTO",
+        "battalion": "3",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4648694857882,
+          38.57108530972717
+        ]
+      },
+      "properties": {
+        "station": 4,
+        "agency": "SAC",
+        "address": "3145 GRANADA WAY",
+        "city": "SACRAMENTO",
+        "battalion": "1",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5035682812402,
+          38.56513587632012
+        ]
+      },
+      "properties": {
+        "station": 5,
+        "agency": "SAC",
+        "address": "731 BROADWAY",
+        "city": "SACRAMENTO",
+        "battalion": "1",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.42695910030874,
+          38.46829120688857
+        ]
+      },
+      "properties": {
+        "station": 7,
+        "agency": "SAC",
+        "address": "6500 WYNDHAM DR",
+        "city": "ELK GROVE",
+        "battalion": "2",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.42782318937778,
+          38.567789071944446
+        ]
+      },
+      "properties": {
+        "station": 8,
+        "agency": "SAC",
+        "address": "5990 H ST",
+        "city": "SACRAMENTO",
+        "battalion": "1",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.42645045553937,
+          38.5238705249189
+        ]
+      },
+      "properties": {
+        "station": 10,
+        "agency": "SAC",
+        "address": "5642 66TH ST",
+        "city": "SACRAMENTO",
+        "battalion": "2",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.53114094066338,
+          38.49779441010974
+        ]
+      },
+      "properties": {
+        "station": 11,
+        "agency": "SAC",
+        "address": "785 FLORIN RD",
+        "city": "SACRAMENTO",
+        "battalion": "2",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.48349413612851,
+          38.53401413972764
+        ]
+      },
+      "properties": {
+        "station": 12,
+        "agency": "SAC",
+        "address": "4500 24TH ST",
+        "city": "SACRAMENTO",
+        "battalion": "1",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4827023458096,
+          38.59119616794782
+        ]
+      },
+      "properties": {
+        "station": 14,
+        "agency": "SAC",
+        "address": "1341 NORTH C ST",
+        "city": "SACRAMENTO",
+        "battalion": "1",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4792707315585,
+          38.4908942003072
+        ]
+      },
+      "properties": {
+        "station": 16,
+        "agency": "SAC",
+        "address": "7363 24TH ST",
+        "city": "SACRAMENTO",
+        "battalion": "2",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.43533970781908,
+          38.647713539630296
+        ]
+      },
+      "properties": {
+        "station": 17,
+        "agency": "SAC",
+        "address": "1311 BELL AVE",
+        "city": "SACRAMENTO",
+        "battalion": "3",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.47984466466,
+          38.64699124602696
+        ]
+      },
+      "properties": {
+        "station": 18,
+        "agency": "SAC",
+        "address": "746 N MARKET BLVD",
+        "city": "SACRAMENTO",
+        "battalion": "3",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.42756139779104,
+          38.59613262952008
+        ]
+      },
+      "properties": {
+        "station": 19,
+        "agency": "SAC",
+        "address": "1700 CHALLENGE WAY",
+        "city": "SACRAMENTO",
+        "battalion": "3",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.44765272649616,
+          38.61328069855355
+        ]
+      },
+      "properties": {
+        "station": 20,
+        "agency": "SAC",
+        "address": "2512 RIO LINDA BLVD",
+        "city": "SACRAMENTO",
+        "battalion": "3",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.28343206491576,
+          38.679181196751934
+        ]
+      },
+      "properties": {
+        "station": 21,
+        "agency": "METRO",
+        "address": "7641 GREENBACK LN",
+        "city": "CITRUS HEIGHTS",
+        "battalion": "13",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.21104105229213,
+          38.67990066470439
+        ]
+      },
+      "properties": {
+        "station": 22,
+        "agency": "METRO",
+        "address": "6248 CHESTNUT AVE",
+        "city": "ORANGEVALE",
+        "battalion": "13",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.31551378585529,
+          38.678682605448955
+        ]
+      },
+      "properties": {
+        "station": 23,
+        "agency": "METRO",
+        "address": "6421 GREENBACK LN",
+        "city": "CITRUS HEIGHTS",
+        "battalion": "13",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.34987091959088,
+          38.655361537878825
+        ]
+      },
+      "properties": {
+        "station": 24,
+        "agency": "METRO",
+        "address": "4942 COLLEGE OAK DR",
+        "city": "SACRAMENTO",
+        "battalion": "5",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.35838530962451,
+          38.71336985618868
+        ]
+      },
+      "properties": {
+        "station": 26,
+        "agency": "METRO",
+        "address": "8000 PALMERSON DR",
+        "city": "ANTELOPE",
+        "battalion": "5",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.29234094985935,
+          38.71039471450018
+        ]
+      },
+      "properties": {
+        "station": 27,
+        "agency": "METRO",
+        "address": "7474 GRAND OAKS BLVD",
+        "city": "CITRUS HEIGHTS",
+        "battalion": "13",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.25781068028158,
+          38.700719189420035
+        ]
+      },
+      "properties": {
+        "station": 28,
+        "agency": "METRO",
+        "address": "8189 OAK AVE",
+        "city": "CITRUS HEIGHTS",
+        "battalion": "13",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2711598334874,
+          38.64170863744446
+        ]
+      },
+      "properties": {
+        "station": 31,
+        "agency": "METRO",
+        "address": "7950 CALIFORNIA AVE",
+        "city": "FAIR OAKS",
+        "battalion": "13",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.22599435415911,
+          38.65658698001508
+        ]
+      },
+      "properties": {
+        "station": 32,
+        "agency": "METRO",
+        "address": "8890 ROEDIGER LN",
+        "city": "FAIR OAKS",
+        "battalion": "13",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.16583095143136,
+          38.668446120510765
+        ]
+      },
+      "properties": {
+        "station": 35,
+        "agency": "FOLSOM",
+        "address": "535 GLENN DR",
+        "city": "FOLSOM",
+        "battalion": "15",
+        "district": "FOLSOM",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1367160999366,
+          38.677112818133644
+        ]
+      },
+      "properties": {
+        "station": 38,
+        "agency": "FOLSOM",
+        "address": "1300 BLUE RAVINE RD",
+        "city": "FOLSOM",
+        "battalion": "15",
+        "district": "FOLSOM",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.37572239164848,
+          38.69251719173817
+        ]
+      },
+      "properties": {
+        "station": 41,
+        "agency": "METRO",
+        "address": "6900 THOMAS DR",
+        "city": "NORTH HIGHLANDS",
+        "battalion": "5",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.38225989769484,
+          38.67014502944497
+        ]
+      },
+      "properties": {
+        "station": 42,
+        "agency": "METRO",
+        "address": "5608 N HAVEN DR",
+        "city": "NORTH HIGHLANDS",
+        "battalion": "5",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.30403479887534,
+          38.25325550041097
+        ]
+      },
+      "properties": {
+        "station": 45,
+        "agency": "COSUMNES",
+        "address": "229 5TH ST",
+        "city": "GALT",
+        "battalion": "37",
+        "district": "GALT",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.37409674075865,
+          38.480997112274935
+        ]
+      },
+      "properties": {
+        "station": 50,
+        "agency": "METRO",
+        "address": "8880 GERBER RD",
+        "city": "SACRAMENTO",
+        "battalion": "9",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.40365655777934,
+          38.45964816852728
+        ]
+      },
+      "properties": {
+        "station": 51,
+        "agency": "METRO",
+        "address": "8210 MEADOWHAVEN DR",
+        "city": "SACRAMENTO",
+        "battalion": "9",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.42403400419718,
+          38.48729269460398
+        ]
+      },
+      "properties": {
+        "station": 53,
+        "agency": "METRO",
+        "address": "6722 FLEMING AVE",
+        "city": "SACRAMENTO",
+        "battalion": "9",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.37206104269781,
+          38.54588687659632
+        ]
+      },
+      "properties": {
+        "station": 54,
+        "agency": "METRO",
+        "address": "8900 FREDRIC AVE",
+        "city": "SACRAMENTO",
+        "battalion": "9",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.29845947529941,
+          38.47535093731544
+        ]
+      },
+      "properties": {
+        "station": 55,
+        "agency": "METRO",
+        "address": "7776 EXCELSIOR RD",
+        "city": "SACRAMENTO",
+        "battalion": "9",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.46567133191556,
+          38.50994479315347
+        ]
+      },
+      "properties": {
+        "station": 56,
+        "agency": "SAC",
+        "address": "3720 47TH AVE",
+        "city": "SACRAMENTO",
+        "battalion": "2",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.45397158069916,
+          38.48544797369783
+        ]
+      },
+      "properties": {
+        "station": 57,
+        "agency": "SAC",
+        "address": "7927 EAST PKWY",
+        "city": "SACRAMENTO",
+        "battalion": "2",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.21086182455319,
+          38.49463821764454
+        ]
+      },
+      "properties": {
+        "station": 58,
+        "agency": "METRO",
+        "address": "7250 SLOUGHHOUSE RD",
+        "city": "ELK GROVE",
+        "battalion": "14",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.09943096998629,
+          38.49597576487488
+        ]
+      },
+      "properties": {
+        "station": 59,
+        "agency": "METRO",
+        "address": "7210 MURIETA DR",
+        "city": "RANCHO MURIETA",
+        "battalion": "14",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.39296020752677,
+          38.54873745274633
+        ]
+      },
+      "properties": {
+        "station": 60,
+        "agency": "SAC",
+        "address": "3301 JULLIARD DR",
+        "city": "SACRAMENTO",
+        "battalion": "2",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.29532990609012,
+          38.593223456707
+        ]
+      },
+      "properties": {
+        "station": 61,
+        "agency": "METRO",
+        "address": "10595 FOLSOM BLVD",
+        "city": "RANCHO CORDOVA",
+        "battalion": "14",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.21699209911917,
+          38.62926965069833
+        ]
+      },
+      "properties": {
+        "station": 63,
+        "agency": "METRO",
+        "address": "12395 FOLSOM BLVD",
+        "city": "RANCHO CORDOVA",
+        "battalion": "14",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3589514325412,
+          38.56341911673332
+        ]
+      },
+      "properties": {
+        "station": 64,
+        "agency": "METRO",
+        "address": "9116 VANCOUVER DR",
+        "city": "SACRAMENTO",
+        "battalion": "9",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.26565691339516,
+          38.619239662434005
+        ]
+      },
+      "properties": {
+        "station": 65,
+        "agency": "METRO",
+        "address": "11201 COLOMA RD",
+        "city": "RANCHO CORDOVA",
+        "battalion": "14",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2710783837576,
+          38.58751511928964
+        ]
+      },
+      "properties": {
+        "station": 66,
+        "agency": "METRO",
+        "address": "3180 KILGORE RD",
+        "city": "RANCHO CORDOVA",
+        "battalion": "14",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.377930249334,
+          38.40840392749296
+        ]
+      },
+      "properties": {
+        "station": 71,
+        "agency": "COSUMNES",
+        "address": "8760 ELK GROVE BLVD",
+        "city": "ELK GROVE",
+        "battalion": "10",
+        "district": "ELK GROVE",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.43723682969433,
+          38.392769178096366
+        ]
+      },
+      "properties": {
+        "station": 72,
+        "agency": "COSUMNES",
+        "address": "10035 ATKINS DR",
+        "city": "ELK GROVE",
+        "battalion": "10",
+        "district": "ELK GROVE",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.257989146601,
+          38.401346159201076
+        ]
+      },
+      "properties": {
+        "station": 81,
+        "agency": "WILTON",
+        "address": "9800 DILLARD RD",
+        "city": "WILTON",
+        "battalion": "81",
+        "district": "WILTON",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.18836049473322,
+          38.442588533254764
+        ]
+      },
+      "properties": {
+        "station": 83,
+        "agency": "WILTON",
+        "address": "12844 ORANGE RD",
+        "city": "WILTON",
+        "battalion": "81",
+        "district": "WILTON",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.24138582245342,
+          38.29354132399552
+        ]
+      },
+      "properties": {
+        "station": 87,
+        "agency": "HERALD",
+        "address": "12746 IVIE RD",
+        "city": "HERALD",
+        "battalion": "38",
+        "district": "HERALD",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.16018776378145,
+          38.33472411208909
+        ]
+      },
+      "properties": {
+        "station": 88,
+        "agency": "HERALD",
+        "address": "11620 CLAY STATION RD",
+        "city": "HERALD",
+        "battalion": "38",
+        "district": "HERALD",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.57041373087766,
+          38.32866111430758
+        ]
+      },
+      "properties": {
+        "station": 91,
+        "agency": "COURTLAND",
+        "address": "154 MAGNOLIA AVE",
+        "city": "COURTLAND",
+        "battalion": "91",
+        "district": "COURTLAND",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.51235848665365,
+          38.24168954872036
+        ]
+      },
+      "properties": {
+        "station": 96,
+        "agency": "WALNUT GROVE",
+        "address": "14160 GROVE ST",
+        "city": "WALNUT GROVE",
+        "battalion": "95",
+        "district": "WALNUT GROVE",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.40121077229755,
+          38.62034799016697
+        ]
+      },
+      "properties": {
+        "station": 101,
+        "agency": "METRO",
+        "address": "3000 FULTON AVE",
+        "city": "SACRAMENTO",
+        "battalion": "7",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.35963383844773,
+          38.617831716656106
+        ]
+      },
+      "properties": {
+        "station": 102,
+        "agency": "METRO",
+        "address": "4501 MARCONI AVE",
+        "city": "SACRAMENTO",
+        "battalion": "7",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.38264589216301,
+          38.63505702651345
+        ]
+      },
+      "properties": {
+        "station": 103,
+        "agency": "METRO",
+        "address": "3824 WATT AVE",
+        "city": "SACRAMENTO",
+        "battalion": "7",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.39935048508254,
+          38.58169494840315
+        ]
+      },
+      "properties": {
+        "station": 105,
+        "agency": "METRO",
+        "address": "2691 NORTHROP AVE",
+        "city": "SACRAMENTO",
+        "battalion": "7",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3851284211336,
+          38.60665151271564
+        ]
+      },
+      "properties": {
+        "station": 106,
+        "agency": "METRO",
+        "address": "2200 PARK TOWNE CIR",
+        "city": "SACRAMENTO",
+        "battalion": "7",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.308082125794,
+          38.64926977902064
+        ]
+      },
+      "properties": {
+        "station": 108,
+        "agency": "METRO",
+        "address": "6701 WINDING WAY",
+        "city": "SACRAMENTO",
+        "battalion": "7",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.33323542279344,
+          38.62035427064967
+        ]
+      },
+      "properties": {
+        "station": 109,
+        "agency": "METRO",
+        "address": "5634 ROBERTSON AVE",
+        "city": "SACRAMENTO",
+        "battalion": "7",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3877851747493,
+          38.69077023418173
+        ]
+      },
+      "properties": {
+        "station": 112,
+        "agency": "METRO",
+        "address": "6801 34TH ST",
+        "city": "NORTH HIGHLANDS",
+        "battalion": "5",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.41914738070982,
+          38.71415453296726
+        ]
+      },
+      "properties": {
+        "station": 117,
+        "agency": "METRO",
+        "address": "7961 CHERRY BROOK DR",
+        "city": "ELVERTA",
+        "battalion": "5",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.33910814342347,
+          38.42392803430614
+        ]
+      },
+      "properties": {
+        "station": 73,
+        "agency": "COSUMNES",
+        "address": "9607 BOND RD",
+        "city": "ELK GROVE",
+        "battalion": "10",
+        "district": "ELK GROVE",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.48176760878712,
+          38.41538897939148
+        ]
+      },
+      "properties": {
+        "station": 75,
+        "agency": "COSUMNES",
+        "address": "2300 MARITIME DR",
+        "city": "ELK GROVE",
+        "battalion": "10",
+        "district": "ELK GROVE",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.38766162717722,
+          38.438594887631346
+        ]
+      },
+      "properties": {
+        "station": 76,
+        "agency": "COSUMNES",
+        "address": "8545 SHELDON RD",
+        "city": "ELK GROVE",
+        "battalion": "10",
+        "district": "ELK GROVE",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.12989649780414,
+          38.65559808438797
+        ]
+      },
+      "properties": {
+        "station": 37,
+        "agency": "FOLSOM",
+        "address": "70 CLARKSVILLE RD",
+        "city": "FOLSOM",
+        "battalion": "15",
+        "district": "FOLSOM",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.39699114435514,
+          38.67334343186203
+        ]
+      },
+      "properties": {
+        "station": 114,
+        "agency": "METRO",
+        "address": "5824 KELLY WAY",
+        "city": "MCCLELLAN",
+        "battalion": "5",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.41122668590786,
+          38.65384703699725
+        ]
+      },
+      "properties": {
+        "station": 115,
+        "agency": "METRO",
+        "address": "4727 KILZER AVE",
+        "city": "MECLELLAN",
+        "battalion": "5",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.50387201746737,
+          38.671079766925516
+        ]
+      },
+      "properties": {
+        "station": 30,
+        "agency": "SAC",
+        "address": "1901 CLUB CENTER DR",
+        "city": "NATOMAS",
+        "battalion": "3",
+        "district": "SAC CITY",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3312722309858,
+          38.70059189748448
+        ]
+      },
+      "properties": {
+        "station": 25,
+        "agency": "METRO",
+        "address": "7352 ROSEVILLE RD",
+        "city": "SACRAMENTO",
+        "battalion": "5",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.184570779315,
+          38.69680301333679
+        ]
+      },
+      "properties": {
+        "station": 36,
+        "agency": "FOLSOM",
+        "address": "9700 OAK AVE PKWY",
+        "city": "FOLSOM",
+        "battalion": "13",
+        "district": "FOLSOM",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.51839615838955,
+          38.516496400234445
+        ]
+      },
+      "properties": {
+        "station": 13,
+        "agency": "SAC",
+        "address": "1100 43RD AVE",
+        "city": "SACRAMENTO",
+        "battalion": "2",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4286832507237,
+          38.41870541937847
+        ]
+      },
+      "properties": {
+        "station": 74,
+        "agency": "COSUMNES",
+        "address": "6501 LAGUNA PARK DR",
+        "city": "ELK GROVE",
+        "battalion": "10",
+        "district": "ELK GROVE",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.36424466506317,
+          38.59139430243663
+        ]
+      },
+      "properties": {
+        "station": 110,
+        "agency": "METRO",
+        "address": "1432 EASTERN AVE",
+        "city": "SACRAMENTO",
+        "battalion": "7",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2400795964319,
+          38.545183948737545
+        ]
+      },
+      "properties": {
+        "station": 68,
+        "agency": "METRO",
+        "address": "4381 ANATOLIA DR",
+        "city": "RANCHO CORDOVA",
+        "battalion": "14",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.28907656280188,
+          38.27986436795094
+        ]
+      },
+      "properties": {
+        "station": 46,
+        "agency": "COSUMNES",
+        "address": "1050 WALNUT AVE",
+        "city": "GALT",
+        "battalion": "37",
+        "district": "COSUMNES",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.62391523362066,
+          38.14215164960511
+        ]
+      },
+      "properties": {
+        "station": 94,
+        "agency": "RIVER DELTA",
+        "address": "16969 JACKSON SLOUGH RD",
+        "city": "ISLETON",
+        "battalion": "1",
+        "district": "RIVER DELTA",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.612651983,
+          38.16159221104254
+        ]
+      },
+      "properties": {
+        "station": 93,
+        "agency": "ISLETON",
+        "address": "100 2ND ST",
+        "city": "ISLETON",
+        "battalion": "1",
+        "district": "RIVER DELTA",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5404263610548,
+          38.64480835591392
+        ]
+      },
+      "properties": {
+        "station": 43,
+        "agency": "SAC",
+        "address": "4201 EL CENTRO RD",
+        "city": "SACRAMENTO",
+        "battalion": "1",
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.09790554398973,
+          38.66632795969602
+        ]
+      },
+      "properties": {
+        "station": 39,
+        "agency": "FOLSOM ",
+        "address": "2139 RITCHIE ST",
+        "city": "FOLSOM",
+        "battalion": "15",
+        "district": "FOLSOM",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4668351634986,
+          38.71437043102533
+        ]
+      },
+      "properties": {
+        "station": 116,
+        "agency": "METRO",
+        "address": "7995 ELWYN AVE",
+        "city": "ELVERTA",
+        "battalion": null,
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5002060016706,
+          38.612175753800315
+        ]
+      },
+      "properties": {
+        "station": 15,
+        "agency": "SAC",
+        "address": "1640 W EL CAMINO AVE",
+        "city": "NATOMAS",
+        "battalion": null,
+        "district": "SAC",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.51302209854279,
+          38.366586334791684
+        ]
+      },
+      "properties": {
+        "station": 92,
+        "agency": "COURTLAND",
+        "address": "1125 HOOD FRANKLIN RD",
+        "city": "HOOD",
+        "battalion": null,
+        "district": "COURTLAND",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.23726303784427,
+          38.67960906013093
+        ]
+      },
+      "properties": {
+        "station": 29,
+        "agency": "METRO",
+        "address": "8681 GREENBACK LN",
+        "city": "ORANGEVALE",
+        "battalion": null,
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.22281147253459,
+          38.37006690872816
+        ]
+      },
+      "properties": {
+        "station": 84,
+        "agency": "WILTON",
+        "address": "10661 ALTA MESA RD",
+        "city": "WILTON",
+        "battalion": "81",
+        "district": "WILTON",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.51308198979241,
+          38.24606884402734
+        ]
+      },
+      "properties": {
+        "station": 95,
+        "agency": "WALNUT GROVE",
+        "address": "14019 GRAND AVE",
+        "city": "WALNUT GROVE",
+        "battalion": "95",
+        "district": "WALNUT GROVE",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.45768499380863,
+          38.68779415260831
+        ]
+      },
+      "properties": {
+        "station": 111,
+        "agency": "METRO",
+        "address": "6609 RIO LINDA BLVD",
+        "city": "RIO LINDA",
+        "battalion": "5",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5906634874186,
+          38.69961935015768
+        ]
+      },
+      "properties": {
+        "station": 98,
+        "agency": "AIRPORT ",
+        "address": "7201 EARHART DR",
+        "city": "SACRAMENTO",
+        "battalion": "1",
+        "district": "AIRPORT",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.33710307229568,
+          38.555304149428046
+        ]
+      },
+      "properties": {
+        "station": 62,
+        "agency": "METRO",
+        "address": "3646 BRADSHAW RD",
+        "city": "SACRAMENTO",
+        "battalion": "9",
+        "district": "METRO",
+        "source": "Sacramento County Open Data"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.30652815836424,
+          38.55896337368318
+        ]
+      },
+      "properties": {
+        "station": 97,
+        "agency": "METRO",
+        "address": "10321 TRUEMPER WAY",
+        "city": "MATHER",
+        "battalion": "14",
+        "district": "AIRPORT",
+        "source": "Sacramento County Open Data"
+      }
+    }
+  ]
+}

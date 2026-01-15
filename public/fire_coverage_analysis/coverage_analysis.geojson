@@ -1,0 +1,2345 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.50132133912008,
+            38.573436484484255
+          ],
+          [
+            -121.5014212566,
+            38.572707339955
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 1,
+        "agency": "SAC",
+        "distance_ft": 267.5,
+        "distance_miles": 0.05,
+        "rating": "Good",
+        "color": "#f97316",
+        "hydrants_within_500ft": 16,
+        "hydrants_within_1000ft": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.48902428482279,
+            38.58073789443968
+          ],
+          [
+            -121.48859799767,
+            38.580865670502
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 2,
+        "agency": "SAC",
+        "distance_ft": 130.2,
+        "distance_miles": 0.02,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 11,
+        "hydrants_within_1000ft": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.6261538480725,
+            38.685028225482
+          ],
+          [
+            -121.59638371801,
+            38.685423618241
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 3,
+        "agency": "SAC",
+        "distance_ft": 8478.9,
+        "distance_miles": 1.61,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.4648694857882,
+            38.57108530972717
+          ],
+          [
+            -121.46511194192,
+            38.570931458652
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 4,
+        "agency": "SAC",
+        "distance_ft": 89.1,
+        "distance_miles": 0.02,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 11,
+        "hydrants_within_1000ft": 42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.5035682812402,
+            38.56513587632012
+          ],
+          [
+            -121.50312106391,
+            38.565189461267
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 5,
+        "agency": "SAC",
+        "distance_ft": 129.1,
+        "distance_miles": 0.02,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 4,
+        "hydrants_within_1000ft": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.42695910030874,
+            38.46829120688857
+          ],
+          [
+            -121.42677296755,
+            38.468483754309
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 7,
+        "agency": "SAC",
+        "distance_ft": 88.1,
+        "distance_miles": 0.02,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 12,
+        "hydrants_within_1000ft": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.42782318937778,
+            38.567789071944446
+          ],
+          [
+            -121.42703049478,
+            38.568238741407
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 8,
+        "agency": "SAC",
+        "distance_ft": 279.3,
+        "distance_miles": 0.05,
+        "rating": "Good",
+        "color": "#f97316",
+        "hydrants_within_500ft": 3,
+        "hydrants_within_1000ft": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.42645045553937,
+            38.5238705249189
+          ],
+          [
+            -121.42716899569,
+            38.524086155625
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 10,
+        "agency": "SAC",
+        "distance_ft": 219.6,
+        "distance_miles": 0.04,
+        "rating": "Good",
+        "color": "#f97316",
+        "hydrants_within_500ft": 10,
+        "hydrants_within_1000ft": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.53114094066338,
+            38.49779441010974
+          ],
+          [
+            -121.53117446907,
+            38.497626489998
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 11,
+        "agency": "SAC",
+        "distance_ft": 62.0,
+        "distance_miles": 0.01,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 18,
+        "hydrants_within_1000ft": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.48349413612851,
+            38.53401413972764
+          ],
+          [
+            -121.48393973405,
+            38.53415027328
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 12,
+        "agency": "SAC",
+        "distance_ft": 136.5,
+        "distance_miles": 0.03,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 5,
+        "hydrants_within_1000ft": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.4827023458096,
+            38.59119616794782
+          ],
+          [
+            -121.48270105022,
+            38.590954020745
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 14,
+        "agency": "SAC",
+        "distance_ft": 88.3,
+        "distance_miles": 0.02,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 8,
+        "hydrants_within_1000ft": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.4792707315585,
+            38.4908942003072
+          ],
+          [
+            -121.47878071927,
+            38.490540362666
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 16,
+        "agency": "SAC",
+        "distance_ft": 190.4,
+        "distance_miles": 0.04,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 8,
+        "hydrants_within_1000ft": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.43533970781908,
+            38.647713539630296
+          ],
+          [
+            -121.43571159794,
+            38.647500616004
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 17,
+        "agency": "SAC",
+        "distance_ft": 131.4,
+        "distance_miles": 0.02,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 7,
+        "hydrants_within_1000ft": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.47984466466,
+            38.64699124602696
+          ],
+          [
+            -121.47584322428,
+            38.645937180063
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 18,
+        "agency": "SAC",
+        "distance_ft": 1203.2,
+        "distance_miles": 0.23,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.42756139779104,
+            38.59613262952008
+          ],
+          [
+            -121.42800023367,
+            38.59646196372
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 19,
+        "agency": "SAC",
+        "distance_ft": 173.5,
+        "distance_miles": 0.03,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 7,
+        "hydrants_within_1000ft": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.44765272649616,
+            38.61328069855355
+          ],
+          [
+            -121.44778876565,
+            38.613464879813
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 20,
+        "agency": "SAC",
+        "distance_ft": 77.6,
+        "distance_miles": 0.01,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 11,
+        "hydrants_within_1000ft": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.28343206491576,
+            38.679181196751934
+          ],
+          [
+            -121.28461419779,
+            38.67843006574
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 21,
+        "agency": "METRO",
+        "distance_ft": 434.1,
+        "distance_miles": 0.08,
+        "rating": "Good",
+        "color": "#f97316",
+        "hydrants_within_500ft": 1,
+        "hydrants_within_1000ft": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.21104105229213,
+            38.67990066470439
+          ],
+          [
+            -121.20281775427,
+            38.678283319687
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 22,
+        "agency": "METRO",
+        "distance_ft": 2415.1,
+        "distance_miles": 0.46,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.31551378585529,
+            38.678682605448955
+          ],
+          [
+            -121.315706011,
+            38.678230387411
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 23,
+        "agency": "METRO",
+        "distance_ft": 173.8,
+        "distance_miles": 0.03,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 1,
+        "hydrants_within_1000ft": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.34987091959088,
+            38.655361537878825
+          ],
+          [
+            -121.35651440638,
+            38.66111100032
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 24,
+        "agency": "METRO",
+        "distance_ft": 2825.1,
+        "distance_miles": 0.54,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.35838530962451,
+            38.71336985618868
+          ],
+          [
+            -121.36447143259,
+            38.724990409703
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 26,
+        "agency": "METRO",
+        "distance_ft": 4579.6,
+        "distance_miles": 0.87,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.29234094985935,
+            38.71039471450018
+          ],
+          [
+            -121.28125006654,
+            38.719925911719
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 27,
+        "agency": "METRO",
+        "distance_ft": 4696.5,
+        "distance_miles": 0.89,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.25781068028158,
+            38.700719189420035
+          ],
+          [
+            -121.27204997313,
+            38.719408244556
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 28,
+        "agency": "METRO",
+        "distance_ft": 7932.0,
+        "distance_miles": 1.5,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.2711598334874,
+            38.64170863744446
+          ],
+          [
+            -121.26854969972,
+            38.627850459139
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 31,
+        "agency": "METRO",
+        "distance_ft": 5110.1,
+        "distance_miles": 0.97,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.22599435415911,
+            38.65658698001508
+          ],
+          [
+            -121.21626306214,
+            38.646037448602
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 32,
+        "agency": "METRO",
+        "distance_ft": 4743.3,
+        "distance_miles": 0.9,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.16583095143136,
+            38.668446120510765
+          ],
+          [
+            -121.17117557682,
+            38.672608711058
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 35,
+        "agency": "FOLSOM",
+        "distance_ft": 2150.2,
+        "distance_miles": 0.41,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.1367160999366,
+            38.677112818133644
+          ],
+          [
+            -121.14101781227,
+            38.665812478458
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 38,
+        "agency": "FOLSOM",
+        "distance_ft": 4300.7,
+        "distance_miles": 0.81,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.37572239164848,
+            38.69251719173817
+          ],
+          [
+            -121.37976558159,
+            38.690569759623
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 41,
+        "agency": "METRO",
+        "distance_ft": 1352.8,
+        "distance_miles": 0.26,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.38225989769484,
+            38.67014502944497
+          ],
+          [
+            -121.38186483971,
+            38.672242902747
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 42,
+        "agency": "METRO",
+        "distance_ft": 773.6,
+        "distance_miles": 0.15,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.30403479887534,
+            38.25325550041097
+          ],
+          [
+            -121.29789343955,
+            38.248080425953
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 45,
+        "agency": "COSUMNES",
+        "distance_ft": 2580.7,
+        "distance_miles": 0.49,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.37409674075865,
+            38.480997112274935
+          ],
+          [
+            -121.37461262327,
+            38.481368850738
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 50,
+        "agency": "METRO",
+        "distance_ft": 200.2,
+        "distance_miles": 0.04,
+        "rating": "Good",
+        "color": "#f97316",
+        "hydrants_within_500ft": 9,
+        "hydrants_within_1000ft": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.40365655777934,
+            38.45964816852728
+          ],
+          [
+            -121.40869265884,
+            38.462114567498
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 51,
+        "agency": "METRO",
+        "distance_ft": 1696.8,
+        "distance_miles": 0.32,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.42403400419718,
+            38.48729269460398
+          ],
+          [
+            -121.41723057488,
+            38.481812083138
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 53,
+        "agency": "METRO",
+        "distance_ft": 2787.9,
+        "distance_miles": 0.53,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.37206104269781,
+            38.54588687659632
+          ],
+          [
+            -121.37211250833,
+            38.545192200631
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 54,
+        "agency": "METRO",
+        "distance_ft": 253.9,
+        "distance_miles": 0.05,
+        "rating": "Good",
+        "color": "#f97316",
+        "hydrants_within_500ft": 1,
+        "hydrants_within_1000ft": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.29845947529941,
+            38.47535093731544
+          ],
+          [
+            -121.29746858773,
+            38.455494409014
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 55,
+        "agency": "METRO",
+        "distance_ft": 7249.4,
+        "distance_miles": 1.37,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.46567133191556,
+            38.50994479315347
+          ],
+          [
+            -121.46596934391,
+            38.510235354406
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 56,
+        "agency": "SAC",
+        "distance_ft": 135.9,
+        "distance_miles": 0.03,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 1,
+        "hydrants_within_1000ft": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.45397158069916,
+            38.48544797369783
+          ],
+          [
+            -121.45426899019,
+            38.48510596124
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 57,
+        "agency": "SAC",
+        "distance_ft": 150.9,
+        "distance_miles": 0.03,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 3,
+        "hydrants_within_1000ft": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.21086182455319,
+            38.49463821764454
+          ],
+          [
+            -121.19474926738,
+            38.514232522404
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 58,
+        "agency": "METRO",
+        "distance_ft": 8500.4,
+        "distance_miles": 1.61,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.09943096998629,
+            38.49597576487488
+          ],
+          [
+            -121.10407470324,
+            38.527370094679
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 59,
+        "agency": "METRO",
+        "distance_ft": 11529.5,
+        "distance_miles": 2.18,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.39296020752677,
+            38.54873745274633
+          ],
+          [
+            -121.39300074649,
+            38.548710670384
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 60,
+        "agency": "SAC",
+        "distance_ft": 15.1,
+        "distance_miles": 0.0,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 5,
+        "hydrants_within_1000ft": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.29532990609012,
+            38.593223456707
+          ],
+          [
+            -121.29573194496,
+            38.591801299459
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 61,
+        "agency": "METRO",
+        "distance_ft": 531.3,
+        "distance_miles": 0.1,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.21699209911917,
+            38.62926965069833
+          ],
+          [
+            -121.21691413798,
+            38.628874144784
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 63,
+        "agency": "METRO",
+        "distance_ft": 146.0,
+        "distance_miles": 0.03,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 5,
+        "hydrants_within_1000ft": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.3589514325412,
+            38.56341911673332
+          ],
+          [
+            -121.35857485646,
+            38.561680555278
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 64,
+        "agency": "METRO",
+        "distance_ft": 643.3,
+        "distance_miles": 0.12,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.26565691339516,
+            38.619239662434005
+          ],
+          [
+            -121.2646609632,
+            38.619010696335
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 65,
+        "agency": "METRO",
+        "distance_ft": 295.9,
+        "distance_miles": 0.06,
+        "rating": "Good",
+        "color": "#f97316",
+        "hydrants_within_500ft": 3,
+        "hydrants_within_1000ft": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.2710783837576,
+            38.58751511928964
+          ],
+          [
+            -121.27070690343,
+            38.58707354681
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 66,
+        "agency": "METRO",
+        "distance_ft": 192.8,
+        "distance_miles": 0.04,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 5,
+        "hydrants_within_1000ft": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.377930249334,
+            38.40840392749296
+          ],
+          [
+            -121.3774650132,
+            38.409098347918
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 71,
+        "agency": "COSUMNES",
+        "distance_ft": 286.1,
+        "distance_miles": 0.05,
+        "rating": "Good",
+        "color": "#f97316",
+        "hydrants_within_500ft": 11,
+        "hydrants_within_1000ft": 43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.43723682969433,
+            38.392769178096366
+          ],
+          [
+            -121.43744180344,
+            38.393794352177
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 72,
+        "agency": "COSUMNES",
+        "distance_ft": 378.6,
+        "distance_miles": 0.07,
+        "rating": "Good",
+        "color": "#f97316",
+        "hydrants_within_500ft": 1,
+        "hydrants_within_1000ft": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.257989146601,
+            38.401346159201076
+          ],
+          [
+            -121.26034179662,
+            38.399497667452
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 81,
+        "agency": "WILTON",
+        "distance_ft": 952.5,
+        "distance_miles": 0.18,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.18836049473322,
+            38.442588533254764
+          ],
+          [
+            -121.17153736772,
+            38.446956170255
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 83,
+        "agency": "WILTON",
+        "distance_ft": 5064.0,
+        "distance_miles": 0.96,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.24138582245342,
+            38.29354132399552
+          ],
+          [
+            -121.25518074283,
+            38.297408809544
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 87,
+        "agency": "HERALD",
+        "distance_ft": 4194.1,
+        "distance_miles": 0.79,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.16018776378145,
+            38.33472411208909
+          ],
+          [
+            -121.14513549063,
+            38.327909564157
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 88,
+        "agency": "HERALD",
+        "distance_ft": 4973.5,
+        "distance_miles": 0.94,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.57041373087766,
+            38.32866111430758
+          ],
+          [
+            -121.57306593059,
+            38.327469310711
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 91,
+        "agency": "COURTLAND",
+        "distance_ft": 874.7,
+        "distance_miles": 0.17,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.51235848665365,
+            38.24168954872036
+          ],
+          [
+            -121.51252908752,
+            38.241445410545
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 96,
+        "agency": "WALNUT GROVE",
+        "distance_ft": 101.6,
+        "distance_miles": 0.02,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 12,
+        "hydrants_within_1000ft": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.40121077229755,
+            38.62034799016697
+          ],
+          [
+            -121.40130368312,
+            38.620389107464
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 101,
+        "agency": "METRO",
+        "distance_ft": 30.4,
+        "distance_miles": 0.01,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 5,
+        "hydrants_within_1000ft": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.35963383844773,
+            38.617831716656106
+          ],
+          [
+            -121.36746671959,
+            38.61419917072
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 102,
+        "agency": "METRO",
+        "distance_ft": 2596.4,
+        "distance_miles": 0.49,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.38264589216301,
+            38.63505702651345
+          ],
+          [
+            -121.38274915118,
+            38.635187954911
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 103,
+        "agency": "METRO",
+        "distance_ft": 56.1,
+        "distance_miles": 0.01,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 5,
+        "hydrants_within_1000ft": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.39935048508254,
+            38.58169494840315
+          ],
+          [
+            -121.40160775877,
+            38.573762001235
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 105,
+        "agency": "METRO",
+        "distance_ft": 2964.8,
+        "distance_miles": 0.56,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.3851284211336,
+            38.60665151271564
+          ],
+          [
+            -121.38676968163,
+            38.596145113323
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 106,
+        "agency": "METRO",
+        "distance_ft": 3861.3,
+        "distance_miles": 0.73,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.308082125794,
+            38.64926977902064
+          ],
+          [
+            -121.31347771315,
+            38.657490369907
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 108,
+        "agency": "METRO",
+        "distance_ft": 3370.0,
+        "distance_miles": 0.64,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.33323542279344,
+            38.62035427064967
+          ],
+          [
+            -121.32883990349,
+            38.615566295908
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 109,
+        "agency": "METRO",
+        "distance_ft": 2149.6,
+        "distance_miles": 0.41,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.3877851747493,
+            38.69077023418173
+          ],
+          [
+            -121.39441714988,
+            38.690494736891
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 112,
+        "agency": "METRO",
+        "distance_ft": 1891.1,
+        "distance_miles": 0.36,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.41914738070982,
+            38.71415453296726
+          ],
+          [
+            -121.39260699736,
+            38.727512711744
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 117,
+        "agency": "METRO",
+        "distance_ft": 8989.6,
+        "distance_miles": 1.7,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.33910814342347,
+            38.42392803430614
+          ],
+          [
+            -121.33949007622,
+            38.423214951501
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 73,
+        "agency": "COSUMNES",
+        "distance_ft": 282.1,
+        "distance_miles": 0.05,
+        "rating": "Good",
+        "color": "#f97316",
+        "hydrants_within_500ft": 8,
+        "hydrants_within_1000ft": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.48176760878712,
+            38.41538897939148
+          ],
+          [
+            -121.48128426318,
+            38.415377094172
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 75,
+        "agency": "COSUMNES",
+        "distance_ft": 138.2,
+        "distance_miles": 0.03,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 11,
+        "hydrants_within_1000ft": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.38766162717722,
+            38.438594887631346
+          ],
+          [
+            -121.38747217897,
+            38.43859846789
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 76,
+        "agency": "COSUMNES",
+        "distance_ft": 54.2,
+        "distance_miles": 0.01,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 22,
+        "hydrants_within_1000ft": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.12989649780414,
+            38.65559808438797
+          ],
+          [
+            -121.12939466498,
+            38.655253748821
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 37,
+        "agency": "FOLSOM",
+        "distance_ft": 190.3,
+        "distance_miles": 0.04,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 3,
+        "hydrants_within_1000ft": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.39699114435514,
+            38.67334343186203
+          ],
+          [
+            -121.38185000178,
+            38.673126498042
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 114,
+        "agency": "METRO",
+        "distance_ft": 4313.2,
+        "distance_miles": 0.82,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.41122668590786,
+            38.65384703699725
+          ],
+          [
+            -121.41089378472,
+            38.647361819098
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 115,
+        "agency": "METRO",
+        "distance_ft": 2367.8,
+        "distance_miles": 0.45,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.50387201746737,
+            38.671079766925516
+          ],
+          [
+            -121.50418808594,
+            38.671484992868
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 30,
+        "agency": "SAC",
+        "distance_ft": 173.1,
+        "distance_miles": 0.03,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 9,
+        "hydrants_within_1000ft": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.3312722309858,
+            38.70059189748448
+          ],
+          [
+            -121.34704613241,
+            38.688933356264
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 25,
+        "agency": "METRO",
+        "distance_ft": 6185.6,
+        "distance_miles": 1.17,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.184570779315,
+            38.69680301333679
+          ],
+          [
+            -121.17026049888,
+            38.706797068683
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 36,
+        "agency": "FOLSOM",
+        "distance_ft": 5467.4,
+        "distance_miles": 1.04,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.51839615838955,
+            38.516496400234445
+          ],
+          [
+            -121.5188377616,
+            38.516538284413
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 13,
+        "agency": "SAC",
+        "distance_ft": 127.0,
+        "distance_miles": 0.02,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 15,
+        "hydrants_within_1000ft": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.4286832507237,
+            38.41870541937847
+          ],
+          [
+            -121.4285129756,
+            38.418339651744
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 74,
+        "agency": "COSUMNES",
+        "distance_ft": 142.0,
+        "distance_miles": 0.03,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 10,
+        "hydrants_within_1000ft": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.36424466506317,
+            38.59139430243663
+          ],
+          [
+            -121.35489525925,
+            38.586837866357
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 110,
+        "agency": "METRO",
+        "distance_ft": 3141.8,
+        "distance_miles": 0.6,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.2400795964319,
+            38.545183948737545
+          ],
+          [
+            -121.23955858787,
+            38.544442213712
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 68,
+        "agency": "METRO",
+        "distance_ft": 308.7,
+        "distance_miles": 0.06,
+        "rating": "Good",
+        "color": "#f97316",
+        "hydrants_within_500ft": 4,
+        "hydrants_within_1000ft": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.28907656280188,
+            38.27986436795094
+          ],
+          [
+            -121.28267038291,
+            38.279190204509
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 46,
+        "agency": "COSUMNES",
+        "distance_ft": 1851.0,
+        "distance_miles": 0.35,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.62391523362066,
+            38.14215164960511
+          ],
+          [
+            -121.60192144213,
+            38.147343586496
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 94,
+        "agency": "RIVER DELTA",
+        "distance_ft": 6588.3,
+        "distance_miles": 1.25,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.612651983,
+            38.16159221104254
+          ],
+          [
+            -121.59475733793,
+            38.166287696426
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 93,
+        "agency": "ISLETON",
+        "distance_ft": 5411.1,
+        "distance_miles": 1.02,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.5404263610548,
+            38.64480835591392
+          ],
+          [
+            -121.53991330645,
+            38.645022711369
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 43,
+        "agency": "SAC",
+        "distance_ft": 165.8,
+        "distance_miles": 0.03,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 18,
+        "hydrants_within_1000ft": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.09790554398973,
+            38.66632795969602
+          ],
+          [
+            -121.09574089517,
+            38.66231471142
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 39,
+        "agency": "FOLSOM ",
+        "distance_ft": 1588.6,
+        "distance_miles": 0.3,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.4668351634986,
+            38.71437043102533
+          ],
+          [
+            -121.46593878989,
+            38.732157261152
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 116,
+        "agency": "METRO",
+        "distance_ft": 6493.9,
+        "distance_miles": 1.23,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.5002060016706,
+            38.612175753800315
+          ],
+          [
+            -121.50051455464,
+            38.612562296047
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 15,
+        "agency": "SAC",
+        "distance_ft": 166.2,
+        "distance_miles": 0.03,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 9,
+        "hydrants_within_1000ft": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.51302209854279,
+            38.366586334791684
+          ],
+          [
+            -121.51277044647,
+            38.366813177637
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 92,
+        "agency": "COURTLAND",
+        "distance_ft": 109.7,
+        "distance_miles": 0.02,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 5,
+        "hydrants_within_1000ft": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.23726303784427,
+            38.67960906013093
+          ],
+          [
+            -121.25881321826,
+            38.678856159468
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 29,
+        "agency": "METRO",
+        "distance_ft": 6143.5,
+        "distance_miles": 1.16,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.22281147253459,
+            38.37006690872816
+          ],
+          [
+            -121.2237658033,
+            38.375842347094
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 84,
+        "agency": "WILTON",
+        "distance_ft": 2124.6,
+        "distance_miles": 0.4,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.51308198979241,
+            38.24606884402734
+          ],
+          [
+            -121.5133667238,
+            38.246108676346
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 95,
+        "agency": "WALNUT GROVE",
+        "distance_ft": 82.9,
+        "distance_miles": 0.02,
+        "rating": "Excellent",
+        "color": "#22c55e",
+        "hydrants_within_500ft": 3,
+        "hydrants_within_1000ft": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.45768499380863,
+            38.68779415260831
+          ],
+          [
+            -121.46156120138,
+            38.669602960101
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 111,
+        "agency": "METRO",
+        "distance_ft": 6727.6,
+        "distance_miles": 1.27,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.5906634874186,
+            38.69961935015768
+          ],
+          [
+            -121.59013379807,
+            38.693647333117
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 98,
+        "agency": "AIRPORT ",
+        "distance_ft": 2183.9,
+        "distance_miles": 0.41,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.33710307229568,
+            38.555304149428046
+          ],
+          [
+            -121.33643464346,
+            38.555738777473
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 62,
+        "agency": "METRO",
+        "distance_ft": 248.0,
+        "distance_miles": 0.05,
+        "rating": "Good",
+        "color": "#f97316",
+        "hydrants_within_500ft": 2,
+        "hydrants_within_1000ft": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.30652815836424,
+            38.55896337368318
+          ],
+          [
+            -121.30955526148,
+            38.564092068631
+          ]
+        ]
+      },
+      "properties": {
+        "station_name": 97,
+        "agency": "METRO",
+        "distance_ft": 2060.7,
+        "distance_miles": 0.39,
+        "rating": "Needs Attention",
+        "color": "#ef4444",
+        "hydrants_within_500ft": 0,
+        "hydrants_within_1000ft": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+agency,station_count,avg_nearest_distance_ft,avg_hydrants_within_500ft,avg_hydrants_within_1000ft,avg_hydrants_within_quarter_mile,stations_excellent,stations_good,stations_needs_attention
+"WALNUT GROVE",2,92.2,7.5,21.5,27.0,2,0,0
+"COURTLAND",2,492.2,2.5,4.0,4.5,1,0,1
+"SAC",23,551.2,8.3,33.4,54.5,18,3,2
+"COSUMNES",8,714.1,7.9,26.9,45.6,3,3,2
+"FOLSOM ",1,1588.6,0.0,0.0,0.0,0,0,1
+"AIRPORT ",1,2183.9,0.0,0.0,0.0,0,0,1
+"WILTON",3,2713.7,0.0,0.3,0.3,0,0,3
+"FOLSOM",4,3027.2,0.8,1.0,1.2,1,0,3
+"METRO",42,3165.8,1.0,4.1,7.4,5,6,31
+"HERALD",2,4583.8,0.0,0.0,0.0,0,0,2
+"ISLETON",1,5411.1,0.0,0.0,0.0,0,0,1
+"RIVER DELTA",1,6588.3,0.0,0.0,0.0,0,0,1
